@@ -1,0 +1,12 @@
+C:\Users\456128.DSIRZ\documents\visual studio 2017\Projects\MyCollection\MyCollection\bin\Debug\MyCollection.exe.config
+C:\Users\456128.DSIRZ\documents\visual studio 2017\Projects\MyCollection\MyCollection\bin\Debug\MyCollection.exe
+C:\Users\456128.DSIRZ\documents\visual studio 2017\Projects\MyCollection\MyCollection\bin\Debug\MyCollection.pdb
+C:\Users\456128.DSIRZ\documents\visual studio 2017\Projects\MyCollection\MyCollection\obj\Debug\MyCollection.csprojResolveAssemblyReference.cache
+C:\Users\456128.DSIRZ\documents\visual studio 2017\Projects\MyCollection\MyCollection\obj\Debug\MyCollection.exe
+C:\Users\456128.DSIRZ\documents\visual studio 2017\Projects\MyCollection\MyCollection\obj\Debug\MyCollection.pdb
+C:\Users\Irina\Desktop\MyCollection\MyCollection\bin\Debug\MyCollection.exe.config
+C:\Users\Irina\Desktop\MyCollection\MyCollection\obj\Debug\MyCollection.exe
+C:\Users\Irina\Desktop\MyCollection\MyCollection\obj\Debug\MyCollection.pdb
+C:\Users\Irina\Desktop\MyCollection\MyCollection\bin\Debug\MyCollection.exe
+C:\Users\Irina\Desktop\MyCollection\MyCollection\bin\Debug\MyCollection.pdb
+C:\Users\Irina\Desktop\MyCollection\MyCollection\obj\Debug\MyCollection.csprojResolveAssemblyReference.cache
